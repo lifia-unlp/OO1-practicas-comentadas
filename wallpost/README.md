@@ -1,6 +1,6 @@
 # Objetivo
 
-En este ejercicio partimos de una clase ya definida, pero sin métodos, variables de instancia, ni constructor. Debemos completarla en base a lo que nos dice la especificación y lo que indica una interfaz (interface) que la clase implementa (la interfaz es como un contrado que debe cumplir). Con eso tenémos lo básico que se requiere para programar clases. 
+En este ejercicio partimos de una clase ya definida, pero sin métodos, ni variables de instancia, ni constructor. Debemos completarla en base a lo que nos indica la especificación y lo que define una interfaz (interface) que la clase implementa (la interfaz es como un contrato que debe cumplir). 
 
 Y dado que tenemos una clase, aprovechamos para hacer algo con sus instancias. 
 

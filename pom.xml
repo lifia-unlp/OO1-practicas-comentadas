@@ -11,6 +11,8 @@
   <modules>
     <module>wallpost/mio</module>
     <module>wallpost/resuelto</module>
+    <module>balanza/mio</module>
+    <module>balanza/resuelto</module>
   </modules>
 
   <properties>
