@@ -12,7 +12,7 @@ Al final de este documento encontrarás un índice, que sirve como orden en el c
 
 Este repositorio está organizado con una carpeta por cada ejercicio. 
 
-Dentro de cada carpeta encontrarás el enunciado (enunciado.md), un esqueleteto sobre el cuál comenzar a trabajar (la carpeta "mio"), una solución de referencia provista por la cátedra (la carpeta "resuelto"), una carpeta con recursos adicionales a los que se hace referencia en el enunciado (carpeta "recursos"). 
+Dentro de cada carpeta encontrarás el enunciado (en su README.md), un esqueleteto sobre el cuál comenzar a trabajar (la carpeta "mio"), una solución de referencia provista por la cátedra (la carpeta "resuelto"), una carpeta con recursos adicionales a los que se hace referencia en el enunciado (carpeta "recursos"). 
 
 # Guía de uso
 
@@ -24,7 +24,7 @@ Luego, preparás tu ambiente de desarrollo. Podés usar Eclipse, Visual Studio C
 
 ## Markdown
 
-Las instrucciones y enunciados se escribieron en formato Markdown (son esos los archivos README.md y enunciado.md). Si bien podés leerlos directamente en cualquier procesador de texto simple, es más interesante cuando los leés en un visualizador especializado que formatea lindo e incrusta las imágenes. Recomendamos que los leas directamente desde Github o que investigues si tu ambiente ofrece un visualizador de Markwdown. 
+Las instrucciones y enunciados se escribieron en formato Markdown (son esos los archivos README.md). Si bien podés leerlos directamente en cualquier procesador de texto simple, es más interesante cuando los leés en un visualizador especializado que formatea lindo e incrusta las imágenes. Recomendamos que los leas directamente desde Github o que investigues si tu ambiente ofrece un visualizador de Markwdown. 
 
 ## Donde modificar y donde no
 
