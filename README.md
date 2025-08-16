@@ -67,3 +67,6 @@ Cada vez que te pongas a trabajar, fijate si hay actualizaciones en el repositor
 
 Si seguiste las instrucciones de más arriba (donde modificar y donde no), no deberías encontrar conflicto integrando nuestros cambios y los tuyos. Si ocurre, nos consultás.
 
+# Índice de actividades
+
+* **wallpost**: programamos una clase, con su constructor y métodos, y probamos sus instancias con tests de unidad y una aplicacion interactiva (ventana) 
